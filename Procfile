@@ -1,1 +1,1 @@
-worker: python MentionSentimentPY.ipynb
+worker: python worker_file.py
