@@ -1,1 +1,1 @@
-worker: python Weather_Tweets.py
+worker: python MentionSentimentPY.ipynb
